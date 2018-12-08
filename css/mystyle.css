@@ -20,30 +20,30 @@ h2, h4, p, li { font-weight: 400 } /* 400 is normal */
 
 /* BLUE */
 
-ul.navbar-nav.mr-auto li.nav-item a.nav-link { color: #230cea; opacity: 0.7}
-ul.navbar-nav.mr-auto li.nav-item a.nav-link.active { color: #230cea; opacity: 1 }
+ul.navbar-nav.mr-auto li.nav-item a.nav-link { color: #1A7CAB; opacity: 0.7}
+ul.navbar-nav.mr-auto li.nav-item a.nav-link.active { color: #1A7CAB; opacity: 1 }
 .navbar .btn-get-in-touch { background-color: #230cea; color: #fff }
 .navbar .btn-get-in-touch:hover, .navbar .btn-get-in-touch:active { background: #1C0AC0 }
 
-.container-section-heading p a { color: #230cea }
-.container-section-home-page p a { color: #230cea }
-.container-section-heading hr.color-center-line { background-color: #230cea }
-.container-section-home-page hr.color-center-line { background-color: #230cea }
+.container-section-heading p a { color: #1A7CAB }
+.container-section-home-page p a { color: #1A7CAB }
+.container-section-heading hr.color-center-line { background-color: #1A7CAB }
+.container-section-home-page hr.color-center-line { background-color: #1A7CAB }
 
 .bg-highlight-light { background: #B0D6FF }
-.bg-highlight-light .container-get-in-touch p.introduction a { color: #230cea } 
+.bg-highlight-light .container-get-in-touch p.introduction a { color: #1A7CAB } 
 
 .website-samples h3 { color: #230cea }
 .website-samples p a  { color: #230cea }
-.website-samples a.ghost-button-round { color: #230cea; border-color: #230cea }
+.website-samples a.ghost-button-round { color: #1A7CAB; border-color: #1A7CAB }
 .website-samples a.ghost-button-round:hover, 
-.website-samples a.ghost-button-round:active { background: #230cea }
-.website-samples a.ghost-button-square { color: #230cea; border-color: #230cea }
+.website-samples a.ghost-button-round:active { background: #1A7CAB }
+.website-samples a.ghost-button-square { color: #1A7CAB; border-color: #1A7CAB }
 .website-samples a.ghost-button-square:hover, 
-.website-samples a.ghost-button-square:active { background: #230cea }
+.website-samples a.ghost-button-square:active { background: #1A7CAB }
 
 .tutorials-examples h3 a, 
-.tutorials-examples .col-md-4 p a { color: #230cea }
+.tutorials-examples .col-md-4 p a { color: #1A7CAB }
 
 /* RED */
 
