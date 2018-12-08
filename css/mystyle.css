@@ -7,7 +7,7 @@ body {
 /* ========= FONTS ========== */
 
 h1, h2, h3, h4 { font-family: 'Bree Serif', serif;} /* headings */
-p, li { font-family: sans-serif } /* paragraph and bullet text */
+p, li {font-family: 'Alegreya', serif;} /* paragraph and bullet text */
 ul.navbar-nav.mr-auto li.nav-item a.nav-link { font-family: sans-serif } /* navigation bar */
 
 
