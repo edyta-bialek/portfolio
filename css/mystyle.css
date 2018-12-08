@@ -106,7 +106,7 @@ ul.navbar-nav.mr-auto li.nav-item a.nav-link.active { color: #c0392b; opacity: 1
 
 /* jumbotron */
 .jumbotron-home {
-	background-image: url('../img/hero-image-ibat-college.jpg');
+	background-image: url('../img/hero-image.png');
 	background-size: cover; /* Ensures background image expands to fill jumbotron area  */
 	text-align: center; /* Ensures text in jumbotron is centered horizontally  */
 	display:flex; align-items:center; /* Ensures text in jumbotron is centered vertically */
