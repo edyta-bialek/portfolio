@@ -45,34 +45,6 @@ ul.navbar-nav.mr-auto li.nav-item a.nav-link.active { color: #1A7CAB; opacity: 1
 .tutorials-examples h3 a, 
 .tutorials-examples .col-md-4 p a { color: #1A7CAB }
 
-/* RED */
-
-/*
-ul.navbar-nav.mr-auto li.nav-item a.nav-link { color: #c0392b; opacity: 0.7}
-ul.navbar-nav.mr-auto li.nav-item a.nav-link.active { color: #c0392b; opacity: 1 }
-.navbar .btn-get-in-touch { background-color: #c0392b; color: #fff }
-.navbar .btn-get-in-touch:hover, .navbar .btn-get-in-touch:active { background: #A73225 }
-
-.container-section-heading p a { color: #c0392b }
-.container-section-home-page p a { color: #c0392b }
-.container-section-heading hr.color-center-line { background-color: #c0392b }
-.container-section-home-page hr.color-center-line { background-color: #c0392b }
-
-.bg-highlight-light { background: #ecf0f1 }
-.bg-highlight-light .container-get-in-touch p.introduction a { color: #c0392b } 
-
-.website-samples h3 { color: #c0392b }
-.website-samples p a  { color: #c0392b }
-.website-samples a.ghost-button-round { color: #c0392b; border-color: #c0392b }
-.website-samples a.ghost-button-round:hover, 
-.website-samples a.ghost-button-round:active { background: #c0392b }
-.website-samples a.ghost-button-square { color: #c0392b; border-color: #c0392b }
-.website-samples a.ghost-button-square:hover, 
-.website-samples a.ghost-button-square:active { background: #c0392b }
-
-.tutorials-examples h3 a, 
-.tutorials-examples .col-md-4 p a { color: #c0392b }
-*/
 
 
 /* ======= ALL PAGES  ========== */
@@ -132,7 +104,7 @@ ul.navbar-nav.mr-auto li.nav-item a.nav-link.active { color: #c0392b; opacity: 1
 .container-section-home-page { text-align: center; padding-bottom: 32px }
 .container-section-home-page h3 { color: #021647; font-size:52px; text-align: center; margin: 0 auto }
 .container-section-home-page p { color: #021647; font-size:22px; text-align: center; margin: 0 auto 16px; width: 60% }
-.container-section-home-page hr.color-center-line { text-align: center; margin: 12px auto 32px auto;  height: 6px; width: 12% }
+.container-section-home-page hr.color-center-line { text-align: center; margin: 12px auto 32px auto;  height: 6px; width: 30% }
 .container-section-home-page p a { text-decoration: underline }
 
 
